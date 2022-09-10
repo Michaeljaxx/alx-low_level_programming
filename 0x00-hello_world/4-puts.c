@@ -3,7 +3,9 @@
 /**
  * main - printing
  *
- * return: Always 0 
+ * Decription: using the main function
+ * this program prints "Programming is like building a multilingual puzzle
+ * Return: 0 
  */
 int main(void)
 {
