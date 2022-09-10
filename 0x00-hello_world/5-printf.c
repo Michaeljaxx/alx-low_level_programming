@@ -4,7 +4,8 @@
 * main - print the string in the puts function
 *
 * Dexcription: using the main function
-* return: 0
+* this program prints "Programmimg is like building a multilingual puzzle
+* Return: 0
 */
 int main(void)
 {
